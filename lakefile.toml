@@ -1,0 +1,17 @@
+name = "IdentityRegimes"
+version = "0.1.0"
+defaultTargets = ["StructuralExplainability"]
+keywords = ["ontology", "formal-verification", "structural-explainability"]
+license = "MIT"
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "v4.26.0"
+
+[[lean_lib]]
+name = "StructuralExplainability"
+
+[[lean_exe]]
+name = "identityregimes"
+root = "Main"
