@@ -45,7 +45,7 @@ lake exe verify
 
 ## Citation
 
-See [CITATION.cff](./CITATION.cff)
+[CITATION.cff](./CITATION.cff)
 
 ## License
 
