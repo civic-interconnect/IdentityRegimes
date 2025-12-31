@@ -1,6 +1,6 @@
 # Structural Explainability: Identity Regimes
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
 ![Build Status](https://github.com/structural-explainability/IdentityRegimes/actions/workflows/ci.yml/badge.svg?branch=main)
 [![Check Links](https://github.com/structural-explainability/IdentityRegimes/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/structural-explainability/IdentityRegimes/actions/workflows/links.yml)
 
